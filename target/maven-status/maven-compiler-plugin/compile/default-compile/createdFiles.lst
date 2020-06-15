@@ -1,0 +1,9 @@
+com\ip\jackson\ReadValue.class
+com\ip\jackson\Demo.class
+com\ip\jackson\JsonToJava.class
+com\ip\model\Patient.class
+com\ip\jackson\JavaToJson.class
+com\ip\jackson\App.class
+com\ip\model\Employee.class
+com\ip\model\Address.class
+com\ip\jackson\DateFormat.class
